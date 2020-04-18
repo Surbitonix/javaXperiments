@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efe61413-bb8f-4caa-9f7f-0e38d4c909ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XuIgDtAscPdZqr1DWuYXVateNM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../operatorsExercise" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="operators" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efe61413-bb8f-4caa-9f7f-0e38d4c909ad" name="Default Changelist" comment="" />
+      <created>1581889661970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581889661970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="769" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582528565847">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="769" y="311" width="424" height="491" key="FileChooserDialogImpl/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582528565847" />
+    <state width="1821" height="266" key="GridCell.Tab.0.bottom" timestamp="1582184162399">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="266" key="GridCell.Tab.0.bottom/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582184162399" />
+    <state width="1821" height="266" key="GridCell.Tab.0.center" timestamp="1582184162399">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="266" key="GridCell.Tab.0.center/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582184162399" />
+    <state width="1821" height="266" key="GridCell.Tab.0.left" timestamp="1582184162398">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="266" key="GridCell.Tab.0.left/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582184162398" />
+    <state width="1821" height="266" key="GridCell.Tab.0.right" timestamp="1582184162399">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="266" key="GridCell.Tab.0.right/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582184162399" />
+    <state x="593" y="138" width="1022" height="737" key="SettingsEditor" timestamp="1582182301839">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="593" y="138" width="1022" height="737" key="SettingsEditor/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582182301839" />
+    <state x="642" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582528544823">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="642" y="381" key="com.intellij.ide.util.TipDialog/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582528544823" />
+    <state x="365" y="197" width="1372" height="806" key="new project wizard" timestamp="1582184159825">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="365" y="197" width="1372" height="806" key="new project wizard/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582184159825" />
+    <state x="730" y="430" width="714" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582181969948">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="730" y="430" width="714" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1582181969948" />
+  </component>
+</project>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f18292a-cc15-4f0a-a9c1-a146c0fc1dde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a32AKTTDqKH3bNx7PjTTrwTVpN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PolymorphismExercise" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.surbitonix97.Main" />
+      <module name="Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f18292a-cc15-4f0a-a9c1-a146c0fc1dde" name="Default Changelist" comment="" />
+      <created>1585949811593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585949811593</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="632" y="27" width="699" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585952259315">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="632" y="27" width="699" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1585952259315" />
+    <state x="2674" y="286" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586082562298">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2674" y="286" width="424" height="491" key="FileChooserDialogImpl/53.27.1867.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586082562298" />
+    <state width="597" height="868" key="GridCell.Tab.0.bottom" timestamp="1586120606760">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="591" height="611" key="GridCell.Tab.0.bottom/53.27.1867.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586088378261" />
+    <state width="597" height="868" key="GridCell.Tab.0.bottom/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1586120606760" />
+    <state width="597" height="868" key="GridCell.Tab.0.center" timestamp="1586120606760">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="591" height="611" key="GridCell.Tab.0.center/53.27.1867.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586088378261" />
+    <state width="597" height="868" key="GridCell.Tab.0.center/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1586120606760" />
+    <state width="597" height="868" key="GridCell.Tab.0.left" timestamp="1586120606760">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="591" height="611" key="GridCell.Tab.0.left/53.27.1867.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586088378260" />
+    <state width="597" height="868" key="GridCell.Tab.0.left/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1586120606760" />
+    <state width="597" height="868" key="GridCell.Tab.0.right" timestamp="1586120606760">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="591" height="611" key="GridCell.Tab.0.right/53.27.1867.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586088378261" />
+    <state width="597" height="868" key="GridCell.Tab.0.right/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1586120606760" />
+    <state x="652" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1586160787920">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="652" y="339" key="com.intellij.ide.util.TipDialog/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1586160787920" />
+    <state x="645" y="176" width="672" height="762" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585951875911">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="645" y="176" width="672" height="762" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1585951875911" />
+    <state x="501" y="95" width="1372" height="803" key="new project wizard" timestamp="1586098358221">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="501" y="95" width="1372" height="803" key="new project wizard/53.27.1867.1053/1920.0.1920.1080@53.27.1867.1053" timestamp="1586098358221" />
+  </component>
+</project>
